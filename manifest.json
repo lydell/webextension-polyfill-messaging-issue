@@ -4,7 +4,7 @@
   "name": "Test",
   "background": {
     "scripts": [
-      "browser-polyfill-npm.js",
+      "browser-polyfill-master.js",
       "background.js"
     ]
   },
